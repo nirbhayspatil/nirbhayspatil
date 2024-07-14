@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 🤝 I’m looking for help with **NLP Projcets**
+- 🤝 I’m looking for help with **NLP Projects**
 
 - 💬 Ask me about **ML and MLOps**
 
